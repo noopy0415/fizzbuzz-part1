@@ -1,1 +1,1 @@
-- [] Command + 
+- [] Command + Shift + a
